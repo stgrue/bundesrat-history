@@ -1,0 +1,223 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "CSU"
+    ],
+    "num_seats": 5,
+    "note": "First session of the Bundesrat, Kabinett Ehard II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ehard_II"
+  },
+  {
+    "date": "1950-12-18",
+    "parties": [
+      "CSU",
+      "SPD"
+    ],
+    "note": "Kabinett Ehard III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ehard_III"
+  },
+  {
+    "date": "1954-12-14",
+    "parties": [
+      "SPD",
+      "BP",
+      "GB/BHE",
+      "FDP"
+    ],
+    "note": "Kabinett Hoegner II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Hoegner_II"
+  },
+  {
+    "date": "1957-10-16",
+    "parties": [
+      "CSU",
+      "GB/BHE",
+      "FDP"
+    ],
+    "note": "Kabinett Seidel I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Seidel_I"
+  },
+  {
+    "date": "1958-12-09",
+    "parties": [
+      "CSU",
+      "GB/BHE",
+      "FDP"
+    ],
+    "note": "Kabinett Seidel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Seidel_II"
+  },
+  {
+    "date": "1960-01-26",
+    "parties": [
+      "CSU",
+      "GB/BHE",
+      "FDP"
+    ],
+    "note": "Kabinett Ehard IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ehard_IV"
+  },
+  {
+    "date": "1962-12-11",
+    "parties": [
+      "CSU",
+      "BP"
+    ],
+    "note": "Kabinett Goppel I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Goppel_I"
+  },
+  {
+    "date": "1966-12-05",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Goppel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Goppel_II"
+  },
+  {
+    "date": "1970-12-08",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Goppel III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Goppel_III"
+  },
+  {
+    "date": "1974-11-12",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Goppel IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Goppel_IV"
+  },
+  {
+    "date": "1978-11-06",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Strauß I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Strauß_I"
+  },
+  {
+    "date": "1982-10-26",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Strauß II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Strauß_II"
+  },
+  {
+    "date": "1986-10-23",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Strauß III, Strauß died in office on 03.10.1988",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Strauß_III"
+  },
+  {
+    "date": "1988-10-19",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Streibl I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Streibl_I"
+  },
+  {
+    "date": "1990-10-24",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Streibl II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Streibl_II"
+  },
+  {
+    "date": "1990-11-09",
+    "num_seats": 6,
+    "note": "On November 11th, 1990, Bavaria's number of seats in the Bundesrat increased from 5 to 6.",
+    "source": "https://www.wahlen-in-deutschland.de/bBundesrat.htm"
+  },
+  {
+    "date": "1993-05-28",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Stoiber I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stoiber_I"
+  },
+  {
+    "date": "1994-10-21",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Stoiber II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stoiber_II"
+  },
+  {
+    "date": "1998-09-29",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Stoiber III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stoiber_III"
+  },
+  {
+    "date": "2003-10-07",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Stoiber IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stoiber_IV"
+  },
+  {
+    "date": "2007-10-09",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Beckstein",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Beckstein"
+  },
+  {
+    "date": "2008-10-27",
+    "parties": [
+      "CSU",
+      "FDP"
+    ],
+    "note": "Kabinett Seehofer I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Seehofer_I"
+  },
+  {
+    "date": "2013-10-08",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Seehofer II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Seehofer_II"
+  },
+  {
+    "date": "2018-03-16",
+    "parties": [
+      "CSU"
+    ],
+    "note": "Kabinett Söder I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Söder_I"
+  },
+  {
+    "date": "2018-11-06",
+    "parties": [
+      "CSU",
+      "Freie Wähler"
+    ],
+    "note": "Kabinett Söder II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Söder_II"
+  },
+  {
+    "date": "2023-10-31",
+    "parties": [
+      "CSU",
+      "Freie Wähler"
+    ],
+    "note": "Kabinett Söder III, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Söder_III"
+  }
+]

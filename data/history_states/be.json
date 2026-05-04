@@ -1,0 +1,113 @@
+[
+  {
+    "date": "1990-06-22",
+    "parties": [
+      "SPD",
+      "AL"
+    ],
+    "num_seats": 4,
+    "note": "Berlin receives voting rights in the Bundesrat, Senat Momper",
+    "source": "https://de.wikipedia.org/wiki/Senat_Momper"
+  },
+  {
+    "date": "1991-01-24",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Senat Diepgen III, first senate for reunified Berlin",
+    "source": "https://de.wikipedia.org/wiki/Senat_Diepgen_III"
+  },
+  {
+    "date": "1996-01-25",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Senat Diepgen IV",
+    "source": "https://de.wikipedia.org/wiki/Senat_Diepgen_IV"
+  },
+  {
+    "date": "1999-12-09",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Senat Diepgen V",
+    "source": "https://de.wikipedia.org/wiki/Senat_Diepgen_V"
+  },
+  {
+    "date": "2001-06-16",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Senat Wowereit I, minority government tolerated by PDS",
+    "source": "https://de.wikipedia.org/wiki/Senat_Wowereit_I"
+  },
+  {
+    "date": "2002-01-17",
+    "parties": [
+      "SPD",
+      "PDS"
+    ],
+    "note": "Senat Wowereit II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Wowereit_II"
+  },
+  {
+    "date": "2006-11-23",
+    "parties": [
+      "SPD",
+      "Die Linke"
+    ],
+    "note": "Senat Wowereit III, coalition initially with PDS which renamed to Die Linke in June 2007",
+    "source": "https://de.wikipedia.org/wiki/Senat_Wowereit_III"
+  },
+  {
+    "date": "2011-11-24",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Senat Wowereit IV",
+    "source": "https://de.wikipedia.org/wiki/Senat_Wowereit_IV"
+  },
+  {
+    "date": "2014-12-11",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Senat Müller I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Müller_I"
+  },
+  {
+    "date": "2016-12-08",
+    "parties": [
+      "SPD",
+      "Die Linke",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Senat Müller II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Müller_II"
+  },
+  {
+    "date": "2021-12-21",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen",
+      "Die Linke"
+    ],
+    "note": "Senat Giffey",
+    "source": "https://de.wikipedia.org/wiki/Senat_Giffey"
+  },
+  {
+    "date": "2023-04-27",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Senat Wegner, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Senat_Wegner"
+  }
+]

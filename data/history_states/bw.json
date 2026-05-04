@@ -1,0 +1,237 @@
+[
+  {
+    "date": "1952-04-25",
+    "parties": [
+      "SPD",
+      "FDP/DVP",
+      "BHE"
+    ],
+    "num_seats": 5,
+    "note": "Kabinett Maier, first government of the newly formed state of Baden-Württemberg",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Maier_(Baden-Württemberg)"
+  },
+  {
+    "date": "1953-10-07",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP/DVP",
+      "BHE"
+    ],
+    "note": "Kabinett Müller I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_I_(Baden-Württemberg)"
+  },
+  {
+    "date": "1953-11-16",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP/DVP",
+      "BHE"
+    ],
+    "note": "Kabinett Müller II, unchanged re-appointment under new state constitution",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_II_(Baden-Württemberg)"
+  },
+  {
+    "date": "1956-05-09",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP/DVP",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Müller III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_III_(Baden-Württemberg)"
+  },
+  {
+    "date": "1958-12-17",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP/DVP",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Kiesinger I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kiesinger_I_(Baden-Württemberg)"
+  },
+  {
+    "date": "1960-06-23",
+    "parties": [
+      "CDU",
+      "FDP/DVP",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Kiesinger II, GB/BHE minister later switched to GDP then CDU",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kiesinger_II"
+  },
+  {
+    "date": "1964-06-11",
+    "parties": [
+      "CDU",
+      "FDP/DVP"
+    ],
+    "note": "Kabinett Kiesinger III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kiesinger_III"
+  },
+  {
+    "date": "1966-12-16",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Filbinger I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Filbinger_I"
+  },
+  {
+    "date": "1968-06-12",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Filbinger II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Filbinger_II"
+  },
+  {
+    "date": "1972-06-08",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Filbinger III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Filbinger_III"
+  },
+  {
+    "date": "1976-06-02",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Filbinger IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Filbinger_IV"
+  },
+  {
+    "date": "1978-08-30",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Späth I, took over after Filbinger resigned due to Filbinger-Affäre",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Späth_I"
+  },
+  {
+    "date": "1980-06-04",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Späth II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Späth_II"
+  },
+  {
+    "date": "1984-06-06",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Späth III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Späth_III"
+  },
+  {
+    "date": "1988-06-08",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Späth IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Späth_IV"
+  },
+  {
+    "date": "1990-11-09",
+    "num_seats": 6,
+    "note": "On November 11th, 1990, Baden-Württemberg's number of seats in the Bundesrat increased from 5 to 6.",
+    "source": "https://www.wahlen-in-deutschland.de/bBundesrat.htm"
+  },
+  {
+    "date": "1991-01-22",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Teufel I, took over after Späth resigned due to Späth-Affäre",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Teufel_I"
+  },
+  {
+    "date": "1992-06-11",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Teufel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Teufel_II"
+  },
+  {
+    "date": "1996-06-11",
+    "parties": [
+      "CDU",
+      "FDP/DVP"
+    ],
+    "note": "Kabinett Teufel III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Teufel_III"
+  },
+  {
+    "date": "2001-06-12",
+    "parties": [
+      "CDU",
+      "FDP/DVP"
+    ],
+    "note": "Kabinett Teufel IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Teufel_IV"
+  },
+  {
+    "date": "2005-04-29",
+    "parties": [
+      "CDU",
+      "FDP/DVP"
+    ],
+    "note": "Kabinett Oettinger I, took over after Teufel resigned",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Oettinger_I"
+  },
+  {
+    "date": "2006-06-26",
+    "parties": [
+      "CDU",
+      "FDP/DVP"
+    ],
+    "note": "Kabinett Oettinger II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Oettinger_II"
+  },
+  {
+    "date": "2010-02-10",
+    "parties": [
+      "CDU",
+      "FDP/DVP"
+    ],
+    "note": "Kabinett Mappus, took over after Oettinger became EU Commissioner",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Mappus"
+  },
+  {
+    "date": "2011-05-12",
+    "parties": [
+      "Bündnis 90/Die Grünen",
+      "SPD"
+    ],
+    "note": "Kabinett Kretschmann I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmann_I"
+  },
+  {
+    "date": "2016-05-12",
+    "parties": [
+      "Bündnis 90/Die Grünen",
+      "CDU"
+    ],
+    "note": "Kabinett Kretschmann II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmann_II"
+  },
+  {
+    "date": "2021-05-12",
+    "parties": [
+      "Bündnis 90/Die Grünen",
+      "CDU"
+    ],
+    "note": "Kabinett Kretschmann III, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmann_III"
+  }
+]

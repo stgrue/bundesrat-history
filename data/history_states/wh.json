@@ -1,0 +1,29 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "CDU",
+      "SPD",
+      "DVP"
+    ],
+    "num_seats": 3,
+    "note": "First session of the Bundesrat, Kabinett Müller (took office 1948-08-13)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_(Württemberg-Hohenzollern)"
+  },
+  {
+    "date": "1949-09-20",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Müller, DVP minister Wildermuth left to join the federal cabinet",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_(Württemberg-Hohenzollern)"
+  },
+  {
+    "date": "1952-04-25",
+    "parties": [],
+    "num_seats": 0,
+    "note": "Württemberg-Hohenzollern merged into the newly formed state of Baden-Württemberg",
+    "source": "https://de.wikipedia.org/wiki/Württemberg-Hohenzollern"
+  }
+]

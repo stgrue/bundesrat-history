@@ -1,0 +1,99 @@
+[
+  {
+    "date": "1990-11-09",
+    "parties": [
+      "CDU"
+    ],
+    "num_seats": 4,
+    "note": "German reunification, Kabinett Biedenkopf I (took office 1990-10-27)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Biedenkopf_I"
+  },
+  {
+    "date": "1994-10-06",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Biedenkopf II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Biedenkopf_II"
+  },
+  {
+    "date": "1999-10-27",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Biedenkopf III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Biedenkopf_III"
+  },
+  {
+    "date": "2002-05-02",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Milbradt I, Milbradt succeeded Biedenkopf mid-term",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Milbradt_I"
+  },
+  {
+    "date": "2004-11-11",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Milbradt II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Milbradt_II"
+  },
+  {
+    "date": "2008-06-18",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Tillich I, Tillich succeeded Milbradt mid-term",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Tillich_I"
+  },
+  {
+    "date": "2009-09-30",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Tillich II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Tillich_II"
+  },
+  {
+    "date": "2014-11-13",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Tillich III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Tillich_III"
+  },
+  {
+    "date": "2017-12-13",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Kretschmer I, Kretschmer succeeded Tillich mid-term",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmer_I"
+  },
+  {
+    "date": "2019-12-20",
+    "parties": [
+      "CDU",
+      "Bündnis 90/Die Grünen",
+      "SPD"
+    ],
+    "note": "Kabinett Kretschmer II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmer_II"
+  },
+  {
+    "date": "2024-12-19",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Kretschmer III (minority government)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmer_III"
+  }
+]

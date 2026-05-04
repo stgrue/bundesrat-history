@@ -1,0 +1,275 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "SPD",
+      "FDP",
+      "KPD"
+    ],
+    "num_seats": 3,
+    "note": "First session of the Bundesrat, Senat Brauer I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Brauer_I"
+  },
+  {
+    "date": "1950-02-28",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat Brauer II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Brauer_II"
+  },
+  {
+    "date": "1953-12-02",
+    "parties": [
+      "CDU",
+      "FDP",
+      "DP"
+    ],
+    "note": "Senat Sieveking",
+    "source": "https://de.wikipedia.org/wiki/Senat_Sieveking"
+  },
+  {
+    "date": "1957-12-21",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Brauer III",
+    "source": "https://de.wikipedia.org/wiki/Senat_Brauer_III"
+  },
+  {
+    "date": "1961-01-01",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Nevermann I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Nevermann_I"
+  },
+  {
+    "date": "1961-12-13",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Nevermann II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Nevermann_II"
+  },
+  {
+    "date": "1965-06-09",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Weichmann I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Weichmann_I"
+  },
+  {
+    "date": "1966-04-27",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat Weichmann II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Weichmann_II"
+  },
+  {
+    "date": "1970-04-22",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Weichmann III",
+    "source": "https://de.wikipedia.org/wiki/Senat_Weichmann_III"
+  },
+  {
+    "date": "1971-06-09",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Schulz I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Schulz_I"
+  },
+  {
+    "date": "1974-04-30",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Schulz II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Schulz_II"
+  },
+  {
+    "date": "1974-11-12",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Klose I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Klose_I"
+  },
+  {
+    "date": "1978-06-28",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat Klose II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Klose_II"
+  },
+  {
+    "date": "1981-06-24",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat von Dohnanyi I",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Dohnanyi_I"
+  },
+  {
+    "date": "1983-02-02",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat von Dohnanyi II",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Dohnanyi_II"
+  },
+  {
+    "date": "1987-01-20",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat von Dohnanyi III",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Dohnanyi_III"
+  },
+  {
+    "date": "1987-09-02",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat von Dohnanyi IV",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Dohnanyi_IV"
+  },
+  {
+    "date": "1988-06-08",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Senat Voscherau I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Voscherau_I"
+  },
+  {
+    "date": "1991-06-26",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat Voscherau II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Voscherau_II"
+  },
+  {
+    "date": "1993-12-15",
+    "parties": [
+      "SPD",
+      "STATT Partei"
+    ],
+    "note": "Senat Voscherau III",
+    "source": "https://de.wikipedia.org/wiki/Senat_Voscherau_III"
+  },
+  {
+    "date": "1997-11-12",
+    "parties": [
+      "SPD",
+      "GAL"
+    ],
+    "note": "Senat Runde",
+    "source": "https://de.wikipedia.org/wiki/Senat_Runde"
+  },
+  {
+    "date": "2001-10-31",
+    "parties": [
+      "CDU",
+      "Partei Rechtsstaatlicher Offensive",
+      "FDP"
+    ],
+    "note": "Senat von Beust I",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Beust_I"
+  },
+  {
+    "date": "2004-03-17",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Senat von Beust II",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Beust_II"
+  },
+  {
+    "date": "2008-05-07",
+    "parties": [
+      "CDU",
+      "GAL"
+    ],
+    "note": "Senat von Beust III",
+    "source": "https://de.wikipedia.org/wiki/Senat_von_Beust_III"
+  },
+  {
+    "date": "2010-08-25",
+    "parties": [
+      "CDU",
+      "GAL"
+    ],
+    "note": "Senat Ahlhaus",
+    "source": "https://de.wikipedia.org/wiki/Senat_Ahlhaus"
+  },
+  {
+    "date": "2010-10-30",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Senat Ahlhaus, GAL left the coalition on 29 November 2010, CDU minority government until new elections",
+    "source": "https://de.wikipedia.org/wiki/Senat_Ahlhaus"
+  },
+  {
+    "date": "2011-03-07",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Senat Scholz I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Scholz_I"
+  },
+  {
+    "date": "2015-04-15",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Senat Scholz II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Scholz_II"
+  },
+  {
+    "date": "2018-03-28",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Senat Tschentscher I",
+    "source": "https://de.wikipedia.org/wiki/Senat_Tschentscher_I"
+  },
+  {
+    "date": "2020-06-10",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Senat Tschentscher II",
+    "source": "https://de.wikipedia.org/wiki/Senat_Tschentscher_II"
+  },
+  {
+    "date": "2025-05-07",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Senat Tschentscher III, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Senat_Tschentscher_III"
+  }
+]

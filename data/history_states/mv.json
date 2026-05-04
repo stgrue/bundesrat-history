@@ -1,0 +1,102 @@
+[
+  {
+    "date": "1990-11-09",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "num_seats": 3,
+    "note": "German reunification, Kabinett Gomolka (took office 1990-10-28)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Gomolka"
+  },
+  {
+    "date": "1992-03-19",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Seite I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Seite_I"
+  },
+  {
+    "date": "1994-12-08",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Seite II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Seite_II"
+  },
+  {
+    "date": "1998-11-03",
+    "parties": [
+      "SPD",
+      "PDS"
+    ],
+    "note": "Kabinett Ringstorff I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ringstorff_I"
+  },
+  {
+    "date": "2002-11-06",
+    "parties": [
+      "SPD",
+      "PDS"
+    ],
+    "note": "Kabinett Ringstorff II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ringstorff_II"
+  },
+  {
+    "date": "2006-11-07",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Ringstorff III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ringstorff_III"
+  },
+  {
+    "date": "2008-10-06",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Sellering I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Sellering_I"
+  },
+  {
+    "date": "2011-10-25",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Sellering II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Sellering_II"
+  },
+  {
+    "date": "2016-11-01",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Sellering III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Sellering_III"
+  },
+  {
+    "date": "2017-07-04",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Schwesig I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schwesig_I"
+  },
+  {
+    "date": "2021-11-15",
+    "parties": [
+      "SPD",
+      "Die Linke"
+    ],
+    "note": "Kabinett Schwesig II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schwesig_II"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "date": "1957-01-01",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "num_seats": 3,
+    "note": "Saarland joined the Federal Republic and the Bundesrat on this date. Kabinett Ney was already in office (since 10 January 1956). Originally a CDU-DPS-SPD coalition, DPS left on 17 December 1956.",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ney"
+  },
+  {
+    "date": "1957-06-04",
+    "parties": [
+      "CDU",
+      "DPS",
+      "SPD"
+    ],
+    "note": "Kabinett Reinert I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Reinert_I"
+  },
+  {
+    "date": "1959-02-26",
+    "parties": [
+      "CDU",
+      "SPD",
+      "CVP"
+    ],
+    "note": "Kabinett Reinert II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Reinert_II"
+  },
+  {
+    "date": "1959-04-19",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Reinert II, CVP fuses with CDU",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Reinert_II"
+  },
+  {
+    "date": "1959-04-30",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Röder I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Röder_I"
+  },
+  {
+    "date": "1961-01-17",
+    "parties": [
+      "CDU",
+      "FDP/DPS"
+    ],
+    "note": "Kabinett Röder II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Röder_II"
+  },
+  {
+    "date": "1965-07-19",
+    "parties": [
+      "CDU",
+      "FDP/DPS"
+    ],
+    "note": "Kabinett Röder III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Röder_III"
+  },
+  {
+    "date": "1970-07-13",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Röder IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Röder_IV"
+  },
+  {
+    "date": "1974-01-23",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Röder V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Röder_V"
+  },
+  {
+    "date": "1977-06-01",
+    "parties": [
+      "CDU",
+      "FDP/DPS"
+    ],
+    "note": "Kabinett Röder VI",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Röder_VI"
+  },
+  {
+    "date": "1979-07-05",
+    "parties": [
+      "CDU",
+      "FDP/DPS"
+    ],
+    "note": "Kabinett Zeyer I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zeyer_I"
+  },
+  {
+    "date": "1980-05-23",
+    "parties": [
+      "CDU",
+      "FDP/DPS"
+    ],
+    "note": "Kabinett Zeyer II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zeyer_II"
+  },
+  {
+    "date": "1985-04-09",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Lafontaine I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Lafontaine_I"
+  },
+  {
+    "date": "1990-02-21",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Lafontaine II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Lafontaine_II"
+  },
+  {
+    "date": "1994-11-23",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Lafontaine III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Lafontaine_III"
+  },
+  {
+    "date": "1998-11-09",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Klimmt",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Klimmt"
+  },
+  {
+    "date": "1999-09-29",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Müller I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_I_(Saarland)"
+  },
+  {
+    "date": "2004-10-06",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Müller II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_II_(Saarland)"
+  },
+  {
+    "date": "2009-11-10",
+    "parties": [
+      "CDU",
+      "FDP/DPS",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Müller III (Jamaica coalition)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Müller_III_(Saarland)"
+  },
+  {
+    "date": "2011-08-10",
+    "parties": [
+      "CDU",
+      "FDP/DPS",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Kramp-Karrenbauer I, continued the Jamaica coalition",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kramp-Karrenbauer_I"
+  },
+  {
+    "date": "2012-01-13",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Kramp-Karrenbauer I, FDP/DPS and Bündnis 90/Die Grünen left the coalition",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kramp-Karrenbauer_I"
+  },
+  {
+    "date": "2012-05-09",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Kramp-Karrenbauer II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kramp-Karrenbauer_II"
+  },
+  {
+    "date": "2017-05-17",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Kramp-Karrenbauer III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kramp-Karrenbauer_III"
+  },
+  {
+    "date": "2018-03-01",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Hans",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Hans"
+  },
+  {
+    "date": "2022-04-25",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Rehlinger, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rehlinger"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "SPD",
+      "CDU",
+      "Zentrum"
+    ],
+    "num_seats": 5,
+    "note": "First session of the Bundesrat, Kabinett Kopf III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kopf_III"
+  },
+  {
+    "date": "1951-06-13",
+    "parties": [
+      "SPD",
+      "BHE",
+      "Zentrum"
+    ],
+    "note": "Kabinett Kopf IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kopf_IV"
+  },
+  {
+    "date": "1955-05-26",
+    "parties": [
+      "CDU",
+      "DP",
+      "GB/BHE",
+      "FDP"
+    ],
+    "note": "Kabinett Hellwege I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Hellwege_I"
+  },
+  {
+    "date": "1957-11-19",
+    "parties": [
+      "SPD",
+      "CDU",
+      "DP"
+    ],
+    "note": "Kabinett Hellwege II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Hellwege_II"
+  },
+  {
+    "date": "1959-05-12",
+    "parties": [
+      "SPD",
+      "FDP",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Kopf V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kopf_V"
+  },
+  {
+    "date": "1961-12-29",
+    "parties": [
+      "SPD",
+      "FDP",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Diederichs I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Diederichs_I"
+  },
+  {
+    "date": "1963-06-12",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Diederichs II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Diederichs_II"
+  },
+  {
+    "date": "1965-05-13",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Diederichs III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Diederichs_III"
+  },
+  {
+    "date": "1967-07-05",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Diederichs IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Diederichs_IV"
+  },
+  {
+    "date": "1970-07-08",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Kubel I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kubel_I"
+  },
+  {
+    "date": "1974-07-10",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Kubel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kubel_II"
+  },
+  {
+    "date": "1976-01-15",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Albrecht I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Albrecht_I"
+  },
+  {
+    "date": "1977-01-19",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Albrecht II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Albrecht_II"
+  },
+  {
+    "date": "1978-06-28",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Albrecht III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Albrecht_III"
+  },
+  {
+    "date": "1982-06-22",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Albrecht IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Albrecht_IV"
+  },
+  {
+    "date": "1986-07-09",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Albrecht V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Albrecht_V"
+  },
+  {
+    "date": "1990-06-21",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Schröder I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schröder_I_(Niedersachsen)"
+  },
+  {
+    "date": "1990-11-09",
+    "num_seats": 6,
+    "note": "On November 11th, 1990, Lower Saxony's number of seats in the Bundesrat increased from 5 to 6.",
+    "source": "https://www.wahlen-in-deutschland.de/bBundesrat.htm"
+  },
+  {
+    "date": "1994-06-20",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Schröder II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schröder_II_(Niedersachsen)"
+  },
+  {
+    "date": "1998-03-30",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Schröder III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schröder_III"
+  },
+  {
+    "date": "1998-10-28",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Glogowski",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Glogowski"
+  },
+  {
+    "date": "1999-12-15",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Gabriel",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Gabriel"
+  },
+  {
+    "date": "2003-03-04",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Wulff I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Wulff_I"
+  },
+  {
+    "date": "2008-02-26",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Wulff II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Wulff_II"
+  },
+  {
+    "date": "2010-07-01",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett McAllister",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_McAllister"
+  },
+  {
+    "date": "2013-02-19",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Weil I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Weil_I"
+  },
+  {
+    "date": "2017-11-22",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Weil II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Weil_II"
+  },
+  {
+    "date": "2022-11-08",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Weil III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Weil_III"
+  },
+  {
+    "date": "2025-05-20",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Lies, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Lies"
+  }
+]

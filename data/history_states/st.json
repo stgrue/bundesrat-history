@@ -1,0 +1,104 @@
+[
+  {
+    "date": "1990-11-09",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "num_seats": 4,
+    "note": "German reunification, Kabinett Gies (took office 1990-11-02)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Gies"
+  },
+  {
+    "date": "1991-07-04",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Münch",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Münch"
+  },
+  {
+    "date": "1993-12-02",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Bergner",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Bergner"
+  },
+  {
+    "date": "1994-07-21",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Höppner I, minority government tolerated by PDS (Magdeburger Modell)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Höppner_I"
+  },
+  {
+    "date": "1998-05-26",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Höppner II, minority government tolerated by PDS (Magdeburger Modell)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Höppner_II"
+  },
+  {
+    "date": "2002-05-16",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Böhmer I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Böhmer_I"
+  },
+  {
+    "date": "2006-04-24",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Böhmer II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Böhmer_II"
+  },
+  {
+    "date": "2011-04-19",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Haseloff I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Haseloff_I"
+  },
+  {
+    "date": "2016-04-25",
+    "parties": [
+      "CDU",
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Haseloff II (Kenia-Koalition)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Haseloff_II"
+  },
+  {
+    "date": "2021-09-16",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Haseloff III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Haseloff_III"
+  },
+  {
+    "date": "2026-01-28",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Schulze",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schulze"
+  }
+]

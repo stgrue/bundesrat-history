@@ -1,0 +1,227 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "num_seats": 4,
+    "note": "First session of the Bundesrat, Kabinett Stock",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stock"
+  },
+  {
+    "date": "1951-01-10",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Zinn I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zinn_I"
+  },
+  {
+    "date": "1955-01-19",
+    "parties": [
+      "SPD",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Zinn II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zinn_II"
+  },
+  {
+    "date": "1959-01-29",
+    "parties": [
+      "SPD",
+      "GB/BHE"
+    ],
+    "note": "Kabinett Zinn III. The GB/BHE renamed itself to Gesamtdeutsche Partei (GDP) on 10 May 1961.",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zinn_III"
+  },
+  {
+    "date": "1963-01-31",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Zinn IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zinn_IV"
+  },
+  {
+    "date": "1967-01-19",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Zinn V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Zinn_V"
+  },
+  {
+    "date": "1969-10-23",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Osswald I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Osswald_I"
+  },
+  {
+    "date": "1970-12-17",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Osswald II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Osswald_II"
+  },
+  {
+    "date": "1974-12-18",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Osswald III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Osswald_III"
+  },
+  {
+    "date": "1976-10-20",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Börner I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Börner_I"
+  },
+  {
+    "date": "1978-12-14",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Börner II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Börner_II"
+  },
+  {
+    "date": "1982-09-26",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Börner II, FDP left the coalition; the cabinet continued as caretaker government",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Börner_II"
+  },
+  {
+    "date": "1984-07-04",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Börner III, SPD minority government",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Börner_III"
+  },
+  {
+    "date": "1985-12-12",
+    "parties": [
+      "SPD",
+      "Die Grünen"
+    ],
+    "note": "Kabinett Börner III, Die Grünen joined the coalition, forming the first red-green coalition in Germany",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Börner_III"
+  },
+  {
+    "date": "1987-04-24",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Wallmann",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Wallmann"
+  },
+  {
+    "date": "1991-04-05",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Eichel I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Eichel_I"
+  },
+  {
+    "date": "1995-04-05",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Eichel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Eichel_II"
+  },
+  {
+    "date": "1996-01-01",
+    "num_seats": 5,
+    "note": "On January 1st, 1996, Hesse's number of seats in the Bundesrat increased from 4 to 5.",
+    "source": "https://www.wahlen-in-deutschland.de/bBundesrat.htm"
+  },
+  {
+    "date": "1999-04-07",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Koch I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Koch_I"
+  },
+  {
+    "date": "2003-04-05",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Koch II, CDU governed alone with an absolute majority",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Koch_II"
+  },
+  {
+    "date": "2009-02-05",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Koch III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Koch_III"
+  },
+  {
+    "date": "2010-08-31",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Bouffier I, formed mid-term after Roland Koch resigned from politics",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Bouffier_I"
+  },
+  {
+    "date": "2014-01-18",
+    "parties": [
+      "CDU",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Bouffier II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Bouffier_II"
+  },
+  {
+    "date": "2019-01-18",
+    "parties": [
+      "CDU",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Bouffier III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Bouffier_III"
+  },
+  {
+    "date": "2022-05-31",
+    "parties": [
+      "CDU",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Rhein I, formed after Bouffier resigned",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rhein_I"
+  },
+  {
+    "date": "2024-01-18",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Rhein II, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rhein_II"
+  }
+]

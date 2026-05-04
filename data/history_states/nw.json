@@ -1,0 +1,225 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "CDU",
+      "SPD",
+      "KPD",
+      "Zentrum"
+    ],
+    "num_seats": 5,
+    "note": "First session of the Bundesrat, Kabinett Arnold I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Arnold_I"
+  },
+  {
+    "date": "1950-08-01",
+    "parties": [
+      "CDU",
+      "Zentrum"
+    ],
+    "note": "Kabinett Arnold II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Arnold_II"
+  },
+  {
+    "date": "1954-07-27",
+    "parties": [
+      "CDU",
+      "FDP",
+      "Zentrum"
+    ],
+    "note": "Kabinett Arnold III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Arnold_III"
+  },
+  {
+    "date": "1955-02-28",
+    "parties": [
+      "SPD",
+      "FDP",
+      "Zentrum"
+    ],
+    "note": "Kabinett Steinhoff",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Steinhoff_(Nordrhein-Westfalen)"
+  },
+  {
+    "date": "1958-07-24",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Meyers I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Meyers_I"
+  },
+  {
+    "date": "1962-07-26",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Meyers II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Meyers_II"
+  },
+  {
+    "date": "1966-07-26",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Meyers III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Meyers_III"
+  },
+  {
+    "date": "1966-12-08",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Kühn I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kühn_I"
+  },
+  {
+    "date": "1970-07-28",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Kühn II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kühn_II"
+  },
+  {
+    "date": "1975-06-04",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Kühn III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kühn_III"
+  },
+  {
+    "date": "1978-09-20",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Rau I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rau_I"
+  },
+  {
+    "date": "1980-06-04",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Rau II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rau_II"
+  },
+  {
+    "date": "1985-06-05",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Rau III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rau_III"
+  },
+  {
+    "date": "1990-06-12",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Rau IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rau_IV"
+  },
+  {
+    "date": "1990-11-09",
+    "num_seats": 6,
+    "note": "On November 11th, 1990, North Rhine-Westphalia's number of seats in the Bundesrat increased from 5 to 6.",
+    "source": "https://www.wahlen-in-deutschland.de/bBundesrat.htm"
+  },
+  {
+    "date": "1995-07-17",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Rau V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rau_V"
+  },
+  {
+    "date": "1998-06-09",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Clement I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Clement_I"
+  },
+  {
+    "date": "2000-06-27",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Clement II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Clement_II"
+  },
+  {
+    "date": "2002-11-12",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Steinbrück",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Steinbrück"
+  },
+  {
+    "date": "2005-06-24",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Rüttgers",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Rüttgers"
+  },
+  {
+    "date": "2010-07-15",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Kraft I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kraft_I"
+  },
+  {
+    "date": "2012-06-21",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Kraft II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kraft_II"
+  },
+  {
+    "date": "2017-06-30",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Laschet",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Laschet"
+  },
+  {
+    "date": "2021-10-28",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Wüst I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Wüst_I"
+  },
+  {
+    "date": "2022-06-29",
+    "parties": [
+      "CDU",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Wüst II, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Wüst_II"
+  }
+]

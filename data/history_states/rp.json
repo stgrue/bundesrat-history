@@ -1,0 +1,217 @@
+[
+  {
+    "date": "1949-09-07",
+    "parties": [
+      "CDU",
+      "SPD",
+      "FDP"
+    ],
+    "num_seats": 4,
+    "note": "First session of the Bundesrat, Kabinett Altmeier I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Altmeier_I"
+  },
+  {
+    "date": "1951-06-13",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Altmeier II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Altmeier_II"
+  },
+  {
+    "date": "1955-06-01",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Altmeier III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Altmeier_III"
+  },
+  {
+    "date": "1959-05-19",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Altmeier IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Altmeier_IV"
+  },
+  {
+    "date": "1963-05-18",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Altmeier V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Altmeier_V"
+  },
+  {
+    "date": "1967-05-18",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Altmeier VI",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Altmeier_VI"
+  },
+  {
+    "date": "1969-05-19",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Kohl I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kohl_I_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1971-05-18",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Kohl II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kohl_II_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1975-05-20",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Kohl III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Kohl_III_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1976-12-02",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Vogel I, Bernhard Vogel succeeded Helmut Kohl who moved to federal politics",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_I_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1979-05-18",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Vogel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_II_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1983-05-18",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Vogel III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_III_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1987-06-23",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Vogel IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_IV"
+  },
+  {
+    "date": "1988-12-08",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Wagner",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Wagner_(Rheinland-Pfalz)"
+  },
+  {
+    "date": "1991-05-21",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Scharping, first SPD-led government in Rheinland-Pfalz",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Scharping"
+  },
+  {
+    "date": "1994-10-26",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Beck I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Beck_I"
+  },
+  {
+    "date": "1996-05-20",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Beck II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Beck_II"
+  },
+  {
+    "date": "2001-05-18",
+    "parties": [
+      "SPD",
+      "FDP"
+    ],
+    "note": "Kabinett Beck III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Beck_III"
+  },
+  {
+    "date": "2006-05-18",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Beck IV, SPD governed alone with absolute majority",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Beck_IV"
+  },
+  {
+    "date": "2011-05-18",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Beck V",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Beck_V"
+  },
+  {
+    "date": "2013-01-16",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Dreyer I, Malu Dreyer succeeded Kurt Beck mid-term",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Dreyer_I"
+  },
+  {
+    "date": "2016-05-18",
+    "parties": [
+      "SPD",
+      "FDP",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Dreyer II, Ampelkoalition",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Dreyer_II"
+  },
+  {
+    "date": "2021-05-18",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen",
+      "FDP"
+    ],
+    "note": "Kabinett Dreyer III, Ampelkoalition continued",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Dreyer_III"
+  },
+  {
+    "date": "2024-07-10",
+    "parties": [
+      "SPD",
+      "Bündnis 90/Die Grünen",
+      "FDP"
+    ],
+    "note": "Kabinett Schweitzer, Alexander Schweitzer succeeded Malu Dreyer mid-term, currently in office",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Schweitzer"
+  }
+]

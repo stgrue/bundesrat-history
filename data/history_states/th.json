@@ -1,0 +1,101 @@
+[
+  {
+    "date": "1990-11-09",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "num_seats": 4,
+    "note": "German reunification, Kabinett Duchač (took office 1990-11-08)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Duchač"
+  },
+  {
+    "date": "1992-02-11",
+    "parties": [
+      "CDU",
+      "FDP"
+    ],
+    "note": "Kabinett Vogel I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_I_(Thüringen)"
+  },
+  {
+    "date": "1994-11-30",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Vogel II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_II_(Thüringen)"
+  },
+  {
+    "date": "1999-10-01",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Vogel III (absolute majority)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Vogel_III_(Thüringen)"
+  },
+  {
+    "date": "2003-06-05",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Althaus I",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Althaus_I"
+  },
+  {
+    "date": "2004-07-08",
+    "parties": [
+      "CDU"
+    ],
+    "note": "Kabinett Althaus II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Althaus_II"
+  },
+  {
+    "date": "2009-11-04",
+    "parties": [
+      "CDU",
+      "SPD"
+    ],
+    "note": "Kabinett Lieberknecht",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Lieberknecht"
+  },
+  {
+    "date": "2014-12-05",
+    "parties": [
+      "Die Linke",
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Ramelow I, first Die Linke-led state government in Germany",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ramelow_I"
+  },
+  {
+    "date": "2020-02-05",
+    "parties": [
+      "FDP"
+    ],
+    "note": "Ministerpräsident Kemmerich, elected with votes of CDU and AfD (Regierungskrise), resigned after 3 days without forming a cabinet",
+    "source": "https://de.wikipedia.org/wiki/Regierungskrise_in_Thüringen_2020"
+  },
+  {
+    "date": "2020-03-04",
+    "parties": [
+      "Die Linke",
+      "SPD",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Ramelow II (minority government)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Ramelow_II"
+  },
+  {
+    "date": "2024-12-12",
+    "parties": [
+      "CDU",
+      "BSW",
+      "SPD"
+    ],
+    "note": "Kabinett Voigt (minority government)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Voigt_(Thüringen)"
+  }
+]

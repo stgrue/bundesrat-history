@@ -1,0 +1,120 @@
+[
+  {
+    "date": "1990-11-09",
+    "parties": [
+      "SPD",
+      "FDP",
+      "Bündnis 90"
+    ],
+    "num_seats": 4,
+    "note": "German reunification, Kabinett Stolpe I (took office 1990-11-01)",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stolpe_I"
+  },
+  {
+    "date": "1994-10-11",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Stolpe II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stolpe_II"
+  },
+  {
+    "date": "1999-10-13",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Stolpe III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Stolpe_III"
+  },
+  {
+    "date": "2002-06-26",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Platzeck I, Platzeck succeeded Stolpe mid-term",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Platzeck_I"
+  },
+  {
+    "date": "2004-09-19",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Platzeck II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Platzeck_II"
+  },
+  {
+    "date": "2009-11-06",
+    "parties": [
+      "SPD",
+      "Die Linke"
+    ],
+    "note": "Kabinett Platzeck III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Platzeck_III"
+  },
+  {
+    "date": "2013-08-28",
+    "parties": [
+      "SPD",
+      "Die Linke"
+    ],
+    "note": "Kabinett Woidke I, Woidke succeeded Platzeck mid-term",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_I"
+  },
+  {
+    "date": "2014-11-05",
+    "parties": [
+      "SPD",
+      "Die Linke"
+    ],
+    "note": "Kabinett Woidke II",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_II"
+  },
+  {
+    "date": "2019-11-20",
+    "parties": [
+      "SPD",
+      "CDU",
+      "Bündnis 90/Die Grünen"
+    ],
+    "note": "Kabinett Woidke III",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_III"
+  },
+  {
+    "date": "2024-11-22",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Woidke III, Bündnis 90/Die Grünen left coalition",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_III"
+  },
+  {
+    "date": "2024-12-11",
+    "parties": [
+      "SPD",
+      "BSW"
+    ],
+    "note": "Kabinett Woidke IV",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_IV"
+  },
+  {
+    "date": "2026-01-06",
+    "parties": [
+      "SPD"
+    ],
+    "note": "Kabinett Woidke IV, BSW left coalition, SPD governs alone as minority government",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_IV"
+  },
+  {
+    "date": "2026-03-18",
+    "parties": [
+      "SPD",
+      "CDU"
+    ],
+    "note": "Kabinett Woidke V, SPD enters coalition with CDU",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_Woidke_V"
+  }
+]
