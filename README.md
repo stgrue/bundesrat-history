@@ -64,9 +64,6 @@ Covers all 16 modern states plus historical states Baden (`BA`), Württemberg-Ba
 
 Combines all per-state files into a single chronological `data/bundesrat_history.json`. Each entry represents a date where at least one state changed; unchanged states are included with `"note": "/unchanged"` for completeness.
 
-```bash
-python merge_history.py
-```
 
 ## Visualizations
 
