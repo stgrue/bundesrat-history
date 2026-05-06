@@ -100,6 +100,8 @@ body {
 }
 @media (max-width: 980px) {
   .grid { grid-template-columns: 1fr; }
+  .masthead { flex-direction: column; gap: 12px; }
+  .masthead .blurb { display: none; }
 }
 
 /* ── Stage (chart canvas) ────────────────────────────── */
@@ -110,14 +112,10 @@ body {
 }
 
 .chart-wrap { position: relative; width: 100%; }
-.chart-wrap svg { display: block; width: 100%; height: auto; }
+.chart-wrap svg { display: block; width: 100%; height: auto; margin-top: -3%; }
 
 /* center labels in the open semicircle */
 .center-stack {
-  position: absolute;
-  left: 50%;
-  top: 5%;
-  transform: translateX(-50%);
   text-align: center;
   pointer-events: none;
 }
@@ -546,3 +544,9 @@ body {
 }
 .footer a { color: var(--color-accent); text-decoration: none; }
 .footer a:hover { text-decoration: underline; }
+
+/* ── Responsive: mobile ────────────────────────────────── */
+@media (max-width: 600px) {
+  .app { padding: 20px 16px 48px; }
+  .masthead h1 { font-size: 26px; }
+}

@@ -144,6 +144,17 @@
   const R_OUTER = 460;
   const R_LABEL = R_OUTER + 46;
   const R_TICK = R_OUTER + 14;
+  const LABEL_PX = 13;
+
+  function updateLabelSizes() {
+    const host = document.getElementById("svg-host");
+    const w = host.clientWidth;
+    if (w <= 0) return;
+    const sz = LABEL_PX * VB_W / w;
+    for (const lbl of document.querySelectorAll(".state-label")) {
+      lbl.style.fontSize = sz + "px";
+    }
+  }
 
   function polar(r, ang) {
     return [CX + r * Math.cos(ang), CY + r * Math.sin(ang)];
@@ -336,6 +347,7 @@
     // Re-apply sticky selection styling after re-render
     applySelectionDecorations();
     renderStateInfo();
+    updateLabelSizes();
   }
 
   function renderTotals(active) {
@@ -665,6 +677,8 @@
     const svg = buildSvg();
     stage.appendChild(svg);
 
+    new ResizeObserver(updateLabelSizes).observe(stage);
+
     // controls icons
     document.getElementById("btn-skip-start").innerHTML = ICON.skipStart;
     document.getElementById("btn-prev").innerHTML = ICON.prev;
@@ -744,7 +758,8 @@
     const axis = document.getElementById("tl-axis");
     const startYear = new Date(T_MIN).getUTCFullYear();
     const endYear = new Date(T_MAX).getUTCFullYear();
-    for (let y = Math.ceil(startYear/5)*5; y <= endYear; y += 5) {
+    const step = window.innerWidth <= 600 ? 10 : 5;
+    for (let y = Math.ceil(startYear/step)*step; y <= endYear; y += step) {
       const t = parseDate(`${y}-01-01`);
       if (t < T_MIN || t > T_MAX) continue;
       const f = (t - T_MIN) / (T_MAX - T_MIN);
