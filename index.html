@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Bundesrat over time — seat distribution since 1949</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+
+  <header class="masthead">
+    <div>
+      <div class="eyebrow">Federal Council · Germany</div>
+      <h1><span class="accent">Bundesrat</span> seat distribution, 1949–today</h1>
+    </div>
+    <div class="blurb">A visualization of how votes in Germany's Federal Council have been distributed across coalition governments in the 16 Länder, every day since the body's first session.</div>
+  </header>
+
+  <div class="grid">
+    <section class="stage">
+      <div class="chart-wrap" id="chart-wrap">
+        <div id="svg-host"></div>
+        <div class="center-stack">
+          <div class="date" id="center-date">—</div>
+          <div class="meta" id="center-meta">—</div>
+        </div>
+        <div class="tooltip" id="tooltip" role="tooltip" aria-hidden="true"></div>
+      </div>
+
+      <div class="timeline" aria-label="Timeline">
+        <div class="tl-top">
+          <div class="tl-controls">
+            <button class="tl-btn" id="btn-skip-start" title="Jump to start (Home)" aria-label="Jump to start"></button>
+            <button class="tl-btn" id="btn-prev" title="Previous change (←)" aria-label="Previous change"></button>
+            <button class="tl-btn play" id="btn-play" title="Play / Pause (Space)" aria-label="Play"></button>
+            <button class="tl-btn" id="btn-next" title="Next change (→)" aria-label="Next change"></button>
+            <button class="tl-btn" id="btn-skip-end" title="Jump to end (End)" aria-label="Jump to end"></button>
+          </div>
+        </div>
+
+        <div class="tl-scrub" id="tl-scrub" role="slider" aria-label="Timeline" tabindex="0">
+          <div class="tl-track">
+            <div class="tl-fill" id="tl-fill"></div>
+          </div>
+          <div class="tl-ticks" id="tl-ticks"></div>
+          <div class="tl-thumb" id="tl-thumb"></div>
+          <div class="tl-hover" id="tl-hover">—</div>
+        </div>
+        <div class="tl-axis" id="tl-axis"></div>
+      </div>
+    </section>
+
+    <aside class="side">
+      <div class="panel">
+        <h3>Aggregated votes</h3>
+        <div class="totals-list" id="totals-list"></div>
+      </div>
+
+      <div class="panel state-info-panel" id="state-info-panel" hidden>
+        <div class="si-head">
+          <h3 id="si-eyebrow">Selected Land</h3>
+          <button class="si-close" id="si-close" type="button" aria-label="Deselect">×</button>
+        </div>
+        <div class="si-name" id="si-name">—</div>
+        <div class="si-sub" id="si-sub">—</div>
+        <div class="si-parties" id="si-parties"></div>
+        <div class="si-note" id="si-note" hidden></div>
+        <div class="si-nav">
+          <button class="si-navbtn" id="si-prev" type="button" aria-label="Previous change in this Land">
+            <span class="si-arrow">‹</span>
+            <span class="si-navlabel">
+              <span class="si-navhint">Previous change</span>
+              <span class="si-navdate" id="si-prev-date">—</span>
+            </span>
+          </button>
+          <button class="si-navbtn" id="si-next" type="button" aria-label="Next change in this Land">
+            <span class="si-navlabel right">
+              <span class="si-navhint">Next change</span>
+              <span class="si-navdate" id="si-next-date">—</span>
+            </span>
+            <span class="si-arrow">›</span>
+          </button>
+        </div>
+      </div>
+
+    </aside>
+  </div>
+
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
