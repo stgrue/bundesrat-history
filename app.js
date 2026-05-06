@@ -549,12 +549,14 @@
 
   function renderStateInfo() {
     const panel = document.getElementById("state-info-panel");
+    const totalsPanel = document.getElementById("totals-panel");
     if (!panel) return;
     const code = state.selectedCode;
-    if (!code) { panel.hidden = true; return; }
+    if (!code) { panel.hidden = true; if (totalsPanel) totalsPanel.hidden = false; return; }
     const cur = state.currentActive.find(s => s.code === code);
-    if (!cur) { panel.hidden = true; return; }
+    if (!cur) { panel.hidden = true; if (totalsPanel) totalsPanel.hidden = false; return; }
     panel.hidden = false;
+    if (totalsPanel) totalsPanel.hidden = true;
 
     document.getElementById("si-name").textContent = STATE_NAMES[code] || code;
     const since = cur.effective_since ? fmtPretty(parseDate(cur.effective_since)) : "";
