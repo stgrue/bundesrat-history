@@ -763,9 +763,7 @@
       else if (e.code === "End") { setPlaying(false); setT(T_MAX); }
     });
 
-    // initial — start at the screenshot date for a familiar view, or default to today's last snapshot
-    const startT = parseDate("2012-05-09");
-    setT(startT >= T_MIN && startT <= T_MAX ? startT : T_MIN);
+    setT(T_MAX);
   }
 
   document.addEventListener("DOMContentLoaded", init);
