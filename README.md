@@ -1,8 +1,8 @@
 # Bundesrat History Visualization (WIP)
 
-![Example seat distribution](img/bundesrat_animation.gif)
+![Example seat distribution](img/screenshot.png)
 
-An interactive, browser-based visualization of seat distribution and party power in the German Bundesrat (Federal Council) from 1949 to the present.
+An interactive, browser-based visualization of seat distribution and party power in the German Bundesrat (Federal Council) from 1949 to the present. Live version: https://stgrue.net/bundesrat-history/
 
 ## What this is about
 
