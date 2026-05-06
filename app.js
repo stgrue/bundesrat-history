@@ -318,7 +318,7 @@
     const centerDate = document.getElementById("center-date");
     const centerMeta = document.getElementById("center-meta");
     centerDate.textContent = fmtDate(t);
-    centerMeta.textContent = `${active.length} Länder · ${totalSeats} Stimmen`;
+    centerMeta.textContent = `${active.length} Länder · ${totalSeats} seats`;
 
     // Update timeline fill
     const pct = (t - T_MIN) / (T_MAX - T_MIN) * 100;
@@ -378,8 +378,8 @@
     if (!el) return;
     const majority = Math.floor(totalSeats / 2) + 1;
     el.innerHTML = `
-      <span class="big">${totalSeats}<sup>Stimmen gesamt</sup></span>
-      <div>${active.length} Länder &middot; Mehrheit ab ${majority} Stimmen</div>
+      <span class="big">${totalSeats}<sup>seats total</sup></span>
+      <div>${active.length} Länder &middot; Majority from ${majority} seats</div>
     `;
   }
 
@@ -412,7 +412,7 @@
     const noteHtml = (noteRaw && noteRaw !== "/unchanged") ? `<div class="tt-note">${escapeHtml(noteRaw)}</div>` : "";
     tooltip.innerHTML = `
       <div class="tt-name">${STATE_NAMES[s.code] || s.code}</div>
-      <div class="tt-sub">${s.code} · ${s.n} Stimmen${since ? " · seit " + since : ""}</div>
+      <div class="tt-sub">${s.code} · ${s.n} seats${since ? " · since " + since : ""}</div>
       <div class="tt-parties">${partiesHtml}</div>
       ${noteHtml}
     `;
@@ -558,7 +558,7 @@
 
     document.getElementById("si-name").textContent = STATE_NAMES[code] || code;
     const since = cur.effective_since ? fmtPretty(parseDate(cur.effective_since)) : "";
-    document.getElementById("si-sub").textContent = `${code} · ${cur.n} Stimmen${since ? " · seit " + since : ""}`;
+    document.getElementById("si-sub").textContent = `${code} · ${cur.n} seats${since ? " · since " + since : ""}`;
 
     const partiesEl = document.getElementById("si-parties");
     partiesEl.innerHTML = cur.p.map(p => {
