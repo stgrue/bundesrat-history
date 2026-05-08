@@ -293,19 +293,22 @@
       lbl.textContent = s.code;
       stateG.appendChild(lbl);
 
-      // Make the whole group hoverable — overlay an invisible wide path
-      const hov = document.createElementNS(SVG_NS, "path");
-      hov.setAttribute("d", arcPath(R_INNER - 8, R_OUTER + 28, Math.min(s.a0,s.a1), Math.max(s.a0,s.a1)));
-      hov.setAttribute("fill", "rgba(0,0,0,0)");
-      hov.style.pointerEvents = "all";
-      hov.style.cursor = "pointer";
-      if (!matchMedia("(pointer: coarse)").matches) {
+      if (matchMedia("(pointer: coarse)").matches) {
+        stateG.style.cursor = "pointer";
+        stateG.addEventListener("click", (e) => { e.stopPropagation(); toggleSelection(s.code); });
+      } else {
+        // Overlay an invisible wide path for hover hit area
+        const hov = document.createElementNS(SVG_NS, "path");
+        hov.setAttribute("d", arcPath(R_INNER - 8, R_OUTER + 28, Math.min(s.a0,s.a1), Math.max(s.a0,s.a1)));
+        hov.setAttribute("fill", "rgba(0,0,0,0)");
+        hov.style.pointerEvents = "all";
+        hov.style.cursor = "pointer";
         hov.addEventListener("mouseenter", (e) => onHover(s, e));
         hov.addEventListener("mousemove", (e) => moveTooltip(e));
         hov.addEventListener("mouseleave", () => onHoverOut());
+        hov.addEventListener("click", (e) => { e.stopPropagation(); toggleSelection(s.code); });
+        stateG.appendChild(hov);
       }
-      hov.addEventListener("click", (e) => { e.stopPropagation(); toggleSelection(s.code); });
-      stateG.appendChild(hov);
 
       root.appendChild(stateG);
     }
