@@ -299,9 +299,11 @@
       hov.setAttribute("fill", "rgba(0,0,0,0)");
       hov.style.pointerEvents = "all";
       hov.style.cursor = "pointer";
-      hov.addEventListener("mouseenter", (e) => onHover(s, e));
-      hov.addEventListener("mousemove", (e) => moveTooltip(e));
-      hov.addEventListener("mouseleave", () => onHoverOut());
+      if (!matchMedia("(pointer: coarse)").matches) {
+        hov.addEventListener("mouseenter", (e) => onHover(s, e));
+        hov.addEventListener("mousemove", (e) => moveTooltip(e));
+        hov.addEventListener("mouseleave", () => onHoverOut());
+      }
       hov.addEventListener("click", (e) => { e.stopPropagation(); toggleSelection(s.code); });
       stateG.appendChild(hov);
 
