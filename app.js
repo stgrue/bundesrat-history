@@ -138,7 +138,7 @@
 
   // ── Render half-donut ───────────────────────────────
   const SVG_NS = "http://www.w3.org/2000/svg";
-  const VB_W = 1080, VB_H = 600;
+  const VB_W = 1080, VB_H = 620;
   const CX = VB_W/2, CY = 80;
   const R_INNER = 130;
   const R_OUTER = 460;
