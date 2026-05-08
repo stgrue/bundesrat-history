@@ -187,6 +187,7 @@ body {
 }
 
 /* state segments */
+svg { -webkit-tap-highlight-color: transparent; }
 .seg { transition: opacity 0.08s ease; cursor: default; }
 .seg-group.dim .seg { opacity: 0.35; }
 .seg-group .state.hover .seg { opacity: 1; }
