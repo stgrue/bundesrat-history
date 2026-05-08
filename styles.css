@@ -98,7 +98,7 @@ body {
   gap: 36px;
   align-items: start;
 }
-@media (max-width: 980px) {
+@media (max-width: 1060px) {
   .grid { grid-template-columns: 1fr; }
   .masthead { flex-direction: column; gap: 12px; }
   .masthead .blurb { display: none; }
@@ -118,6 +118,13 @@ body {
 .center-stack {
   text-align: center;
   pointer-events: none;
+}
+@media (min-width: 768px) {
+  .center-stack {
+    position: relative;
+    z-index: 1;
+    margin-bottom: clamp(-80px, -9%, -40px);
+  }
 }
 .center-stack .date {
   font-family: var(--font-serif);
