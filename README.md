@@ -1,4 +1,4 @@
-# Bundesrat History Visualization (WIP)
+# Bundesrat History Visualization
 
 ![Example seat distribution](img/screenshot.png)
 
