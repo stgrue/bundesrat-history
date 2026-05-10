@@ -13,7 +13,7 @@ As I became interested in the history of the Bundesrat, I was disappointed to fi
 
 This project is an attempt to remedy that: using AI agents (i.e., [Claude Code](https://code.claude.com/docs/en/overview)) crawling Wikipedia, I created a dataset of every change in state government composition since 1949, along with an interactive visualization to explore it.
 
-> **Note:** This repository is very much a work in progress. There may be bugs in the implementation, as well as errors in the crawled dataset!
+> **Note:** This repository is a hobby project and a work in progress. There may be bugs in the implementation, as well as errors in the crawled dataset. Please do not rely on it for serious research!
 
 ## Quickstart
 
