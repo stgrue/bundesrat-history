@@ -231,7 +231,16 @@
       "Bündnis 90/Die Grünen",
       "CDU"
     ],
-    "note": "Kabinett Kretschmann III, currently in office",
+    "note": "Kabinett Kretschmann III",
     "source": "https://de.wikipedia.org/wiki/Kabinett_Kretschmann_III"
+  },
+  {
+    "date": "2026-05-13",
+    "parties": [
+      "Bündnis 90/Die Grünen",
+      "CDU"
+    ],
+    "note": "Kabinett Özdemir",
+    "source": "https://de.wikipedia.org/wiki/Kabinett_%C3%96zdemir"
   }
 ]
